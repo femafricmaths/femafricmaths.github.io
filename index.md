@@ -22,10 +22,13 @@ We have interviewed about twenty female African mathematicians who are pursuing 
 Math lessons for juniour high school students in our Y3p3maths project are available [here](https://youtu.be/LMUrg7fUghs)
 
 ## Contact:
-Our social media pages are as follows:
+Contact us via **femafricmaths@gmail.com** and follow our social media pages.
 
 
-[<img src="./facebook.jpeg" height= 30 width= 30>](https://www.facebook.com/femafricmaths/)&nbsp;&nbsp;&nbsp;[<img src="./twitter.png" height= 30 width= 30>](https://twitter.com/femafricmaths)&nbsp;&nbsp;&nbsp;[<img src="./insta.jpg" height= 30 width= 50>](https://www.instagram.com/femafricmaths/)&nbsp;&nbsp;&nbsp;[<img src="./youtube.png" height= 30 width= 30>](https://www.youtube.com/femafricmaths)&nbsp;&nbsp;&nbsp;[<img src="./Gmail-logo.png" height= 30 width= 40>](femafricmaths@gmail.com)&nbsp;&nbsp;&nbsp;
+[<img src="./facebook.jpeg" height= 30 width= 30>](https://www.facebook.com/femafricmaths/)&nbsp;&nbsp;&nbsp;
+[<img src="./twitter.png" height= 30 width= 30>](https://twitter.com/femafricmaths)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="./insta.jpg" height= 30 width= 50>](https://www.instagram.com/femafricmaths/)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="./youtube.png" height= 30 width= 30>](https://www.youtube.com/femafricmaths)
 
 
 
