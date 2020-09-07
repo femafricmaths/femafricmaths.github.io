@@ -25,7 +25,7 @@ Math lessons for juniour high school students in our Y3p3maths project are avail
 Contact us via **femafricmaths@gmail.com** and follow our social media pages.
 
 
-[<img src="./facebook.jpeg" height= 30 width= 30>](https://www.facebook.com/femafricmaths/)&nbsp;&nbsp;&nbsp;
+[<img src="./facebook.jpeg" height= 30 width= 30>](https://www.facebook.com/femafricmaths/)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="./twitter.png" height= 30 width= 30>](https://twitter.com/femafricmaths)
 [<img src="./insta.jpg" height= 30 width= 50>](https://www.instagram.com/femafricmaths/)
 [<img src="./youtube.png" height= 30 width= 30>](https://www.youtube.com/femafricmaths)
