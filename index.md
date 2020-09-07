@@ -23,19 +23,20 @@ Math lessons for juniour high school students in our Y3p3maths project are avail
 
 ## Contact:
 Our social media pages are as follows:
+
+
 [<img src="./facebook.jpeg">](https://www.facebook.com/femafricmaths/)
 
+[<img src="./twitter.png">](https://twitter.com/femafricmaths)
+
+[<img src="./insta.jpg">](https://www.instagram.com/femafricmaths/)
+
+[<img src="./youtube.png">](https://www.youtube.com/femafricmaths)
+
+[<img src="./Gmail-logo.png">](femafricmaths@gmail.com)
 
 
 
-
-[Twitter](https://twitter.com/femafricmaths)
-
-[Instagram](https://www.instagram.com/femafricmaths/)
-
-[YouTube](https://www.youtube.com/femafricmaths)
-
-[email](femafricmaths@gmail.com)
 
  
  
