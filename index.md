@@ -26,15 +26,10 @@ Our social media pages are as follows:
 
 
 [<img src="./facebook.jpeg" height= 20 width= 20>](https://www.facebook.com/femafricmaths/)
-
-
 [<img src="./twitter.png" height= 20 width= 20>](https://twitter.com/femafricmaths)
-
-[<img src="./insta.jpg" height= 20 width= 20>](https://www.instagram.com/femafricmaths/)
-
+[<img src="./insta.jpg" height= 20 width= 30>](https://www.instagram.com/femafricmaths/)
 [<img src="./youtube.png" height= 20 width= 20>](https://www.youtube.com/femafricmaths)
-
-[<img src="./Gmail-logo.png" height= 20 width= 20>](femafricmaths@gmail.com)
+[<img src="./Gmail-logo.png" height= 20 width= 30>](femafricmaths@gmail.com)
 
 
 
