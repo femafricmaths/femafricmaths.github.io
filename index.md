@@ -1,6 +1,7 @@
 # Female African Mathematicians
 
-Network of female African mathematicians transforming Africa with mathematics.
+## About us:
+We are a network of female African mathematicians transforming Africa with mathematics.
 
 At Femafricmaths, we interview female African Mathematicians to highlight the different career options available when you study mathematics. Our videos are available on our YouTube, Faceboook and Instagram pages.
 
@@ -17,16 +18,23 @@ To see young girls become confident to choose a career in mathematics related fi
 
 ## Achievements:
 We have interviewed about twenty female African mathematicians who are pursuing careers in academia and industry. Videos can be found [here](https://youtu.be/beVI19E9u8I)
+
 Math lessons for juniour high school students in our Y3p3maths project are available [here](https://youtu.be/LMUrg7fUghs)
 
 ## Contact:
 Our social media pages are as follows:
 
-[Facebook][1],[Twitter][2], [Instagram][3], [YouTube][4]
-[1]:https://www.facebook.com/femafricmaths/
-[2]:https://twitter.com/femafricmaths
-[3]:https://www.instagram.com/femafricmaths/
-[4]:https://www.youtube.com/femafricmaths
+```Contact
+
+[Facebook](https://www.facebook.com/femafricmaths/)
+
+[Twitter](https://twitter.com/femafricmaths)
+
+[Instagram](https://www.instagram.com/femafricmaths/)
+
+[YouTube](https://www.youtube.com/femafricmaths)
+
+[email](femafricmaths@gmail.com)
 
  
  
