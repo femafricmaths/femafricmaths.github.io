@@ -15,57 +15,20 @@ To inspire young people about the diverse career choices available after complet
 ## Vision:
 To see young girls become confident to choose a career in mathematics related fields.
 
-A playlist of interviews with female African mathematicians can be found [here](https://youtu.be/beVI19E9u8I)
-
+## Achievements:
+We have interviewed about twenty female African mathematicians who are pursuing careers in academia and industry. Videos can be found [here](https://youtu.be/beVI19E9u8I)
 Math lessons for juniour high school students in our Y3p3maths project are available [here](https://youtu.be/LMUrg7fUghs)
 
+## Contact:
 Our social media pages are as follows:
 
-[Facebook] (https://www.facebook.com/femafricmaths/)
-[Twitter] (https://twitter.com/femafricmaths)
-[Instagram] (https://www.instagram.com/femafricmaths/)
-[YouTube] (https://www.youtube.com/femafricmaths)
+[Facebook][1],[Twitter][2], [Instagram][3], [YouTube][4]
+[1]:https://www.facebook.com/femafricmaths/
+[2]:https://twitter.com/femafricmaths
+[3]:https://www.instagram.com/femafricmaths/
+[4]:https://www.youtube.com/femafricmaths
 
  
  
  
  
- 
- 
- 
- 
- 
- 
-
-[//] : <> ### Markdown
-
-[//] : <> Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/femafricmaths/femafricmaths.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
