@@ -25,11 +25,11 @@ Math lessons for juniour high school students in our Y3p3maths project are avail
 Our social media pages are as follows:
 
 
-[<img src="./facebook.jpeg" height= 30 width= 30>](https://www.facebook.com/femafricmaths/)&nbsp;&nbsp;&nbsp
-[<img src="./twitter.png" height= 30 width= 30>](https://twitter.com/femafricmaths)&nbsp;&nbsp;&nbsp
-[<img src="./insta.jpg" height= 30 width= 50>](https://www.instagram.com/femafricmaths/)&nbsp;&nbsp;&nbsp
-[<img src="./youtube.png" height= 20 width= 20>](https://www.youtube.com/femafricmaths)&nbsp;&nbsp;&nbsp
-[<img src="./Gmail-logo.png" height= 20 width= 30>](femafricmaths@gmail.com)&nbsp;&nbsp;&nbsp
+[<img src="./facebook.jpeg" height= 30 width= 30>](https://www.facebook.com/femafricmaths/)&nbsp;&nbsp;&nbsp;
+[<img src="./twitter.png" height= 30 width= 30>](https://twitter.com/femafricmaths)&nbsp;&nbsp;&nbsp;
+[<img src="./insta.jpg" height= 30 width= 50>](https://www.instagram.com/femafricmaths/)&nbsp;&nbsp;&nbsp;
+[<img src="./youtube.png" height= 30 width= 30>](https://www.youtube.com/femafricmaths)&nbsp;&nbsp;&nbsp;
+[<img src="./Gmail-logo.png" height= 30 width= 40>](femafricmaths@gmail.com)&nbsp;&nbsp;&nbsp;
 
 
 
